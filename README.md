@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# React Quiz
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). It loads questions from a fake API and uses them for quiz game. Project was built as an example of how to use **useReducer** hook in React development.
 
 ## Available Scripts
 
